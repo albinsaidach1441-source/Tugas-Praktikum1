@@ -9,7 +9,8 @@
  */
 public class Contoh {
     static void  cetak (){
-        System.out.println("Saya Suka");
+        System.out.println("Saya Suka kangkung
+                           ");
     }
     
     //public void static (String [] args){ 
@@ -20,3 +21,4 @@ public class Contoh {
             System.out.println("Java");
     }
 }
+
